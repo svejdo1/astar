@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.Framework", "Barbar.Framework\Barbar.Framework.csproj", "{6B08FBDB-F83A-4418-A5D9-E744A17CA811}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Barbar.AStarExample", "Barbar.AStarExample\Barbar.AStarExample.csproj", "{14D4D1DC-4CE1-47EC-B0F9-27A6DF89B44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B08FBDB-F83A-4418-A5D9-E744A17CA811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B08FBDB-F83A-4418-A5D9-E744A17CA811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B08FBDB-F83A-4418-A5D9-E744A17CA811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B08FBDB-F83A-4418-A5D9-E744A17CA811}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14D4D1DC-4CE1-47EC-B0F9-27A6DF89B44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14D4D1DC-4CE1-47EC-B0F9-27A6DF89B44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14D4D1DC-4CE1-47EC-B0F9-27A6DF89B44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14D4D1DC-4CE1-47EC-B0F9-27A6DF89B44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
